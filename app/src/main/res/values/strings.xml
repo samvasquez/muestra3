@@ -1,0 +1,44 @@
+<resources>
+    <string name="app_name">movil 2023</string>
+    <string name="txtLogin">Ingreso App</string>
+    <string name="txtUsuario">Usuario</string>
+    <string name="ediLogin">Digite usuario</string>
+    <string name="txtContrasena">Contraseña</string>
+    <string name="ediContrasena">Digite contraseña</string>
+    <string name="BtnLogin">Iniciar sesión</string>
+    <string name="txtRegistro">Crear usuario!</string>
+
+    <string name="txtBien">Bienvenid@</string>
+    <string name="txtTitleRegistro">Registro</string>
+    <string name="hintUsuario">Digite usuario</string>
+    <string name="hintcontrasena">Digite Contrasena</string>
+    <string name="hintContrasenaVer">verificar Contraseña</string>
+    <string name="hintFecha">Digite la fecha de creacion</string>
+
+    <string-array name="rsEstado">
+
+        <item>
+            Sin Estado
+        </item>
+        <item>
+            Activo
+        </item>
+        <item>
+            Inactivo
+        </item>
+    </string-array>
+
+    <string-array name="rsRol">
+       <item>
+            Sin Rol
+        </item>
+        <item>
+            Administrador
+        </item>
+        <item>
+            Usuario
+        </item>
+
+    </string-array>
+
+</resources>
